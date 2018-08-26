@@ -29,5 +29,4 @@ The following items are implemented in a structured format, to allow for ease of
      | /controllers  - These are called from the router handler, and maintain the API business logic.
      | /models       - These are referenced in the controllers, and handle data manipulation and validation.
      | /server
-     | /views
 ```
