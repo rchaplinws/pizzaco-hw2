@@ -1,7 +1,7 @@
 # Pizza Co
 This is the homework assignment #2 for the Node Js Master Class.
 
-This is purely an API used for ordering pizzas from a fictional company, Pizz Co.
+This is purely an API used for ordering pizzas from a fictional company, Pizza Co.
 
 ## Requirements
 The Assignment (Scenario):
