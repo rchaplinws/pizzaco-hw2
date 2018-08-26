@@ -1,0 +1,22 @@
+{
+  "name": "pizzaco-hw2",
+  "version": "0.2.0",
+  "description": "Node JS Master Class Homework Assignemnt 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/t73biz/pizzaco-hw2.git"
+  },
+  "author": "Ronald Chaplin",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/t73biz/pizzaco-hw2/issues"
+  },
+  "homepage": "https://github.com/t73biz/pizzaco-hw2#readme",
+  "dependencies": {
+    "nodemon": "^1.18.3"
+  }
+}
