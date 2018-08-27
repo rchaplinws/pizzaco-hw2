@@ -1,0 +1,19 @@
+{
+  "pizza":[
+    {
+      "id" : "1",
+      "name" : "Cheese Pizza",
+      "price" : "10.99"
+    },
+    {
+      "id" : "2",
+      "name" : "Sausage Pizza",
+      "price" : "11.99"
+    },
+    {
+      "id" : "3",
+      "name" : "Pepperoni Pizza",
+      "price" : "11.99"
+    }
+  ]
+}
